@@ -1,24 +1,9 @@
 # MEANauthapp
 
 Complete MEAN stack application with authentication using json web tokens
+Based on https://www.youtube.com/watch?v=uONz0lEWft0
 
-### Version
-1.0.0
-
-## Usage
+Using the latest packages/Libraries (6/2018) including bug fixes.
 
 
-### Installation
 
-Install the dependencies
-
-```sh
-$ npm install
-```
-Run app
-
-```sh
-$ npm start
-```
-
-### Screenshots in Wiki: https://github.com/tomcatbuzz/meanauthapp/wiki
