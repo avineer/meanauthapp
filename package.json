@@ -13,7 +13,7 @@
     "bcryptjs": "*",
     "cors": "*",
     "jsonwebtoken": "*",
-    "body-parser": "*",
+    "body-parser": "1.20.1",
     "passport": "*",
     "passport-jwt": "*"
   },
