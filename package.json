@@ -8,12 +8,12 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "*",
+    "express": "4.21.0",
     "mongoose": "*",
     "bcryptjs": "*",
     "cors": "*",
     "jsonwebtoken": "*",
-    "body-parser": "*",
+    "body-parser": "1.20.3",
     "passport": "*",
     "passport-jwt": "*"
   },
